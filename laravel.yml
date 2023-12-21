@@ -1,7 +1,7 @@
 version: 0.0
 os: ubuntu
 files:
-  - source: /public/index.php
+  - source: /sever.php
     destination: /var/www/html/laravel/
 jobs:
    steps:
